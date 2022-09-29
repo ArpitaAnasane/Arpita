@@ -35,12 +35,12 @@ public class Loginpage {
 	public void sendUserName() {
 		userName.sendKeys("arpitaanasane2@gmail.com");
 	}
-	public void sendpassword() {
-		password .sendKeys("arpitalinked@321");
+	//public void sendpassword() {
+		//password .sendKeys("arpitalinked@321");
 	}
 		
-	public void clickOnLoginButton() {
-	     loginButton.click();
+	//public void clickOnLoginButton() {
+	    // loginButton.click();
 		}
 	
 	public void clickOnHomeButton() {
